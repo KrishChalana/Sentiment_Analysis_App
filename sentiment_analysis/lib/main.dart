@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// import 'package:sentiment_analysis/Logicapp.dart'
 import 'package:sentiment_analysis/Textfield.dart';
 
 void main() {
